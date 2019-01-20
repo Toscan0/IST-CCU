@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: edd5aa8b398c882438122428944b6a2a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabello
+    100002: Cabello_Bl
+    100004: Cabello_Ca
+    100006: Cuerp
+    100008: Cuerpo
+    100010: Dientes_Ab
+    100012: Dientes_Ar
+    100014: //RootNode
+    100016: Lengua
+    100018: Ojo_Derech
+    100020: Ojo_Izquie
+    100022: Pantalon
+    100024: Playera
+    100026: Refle
+    100028: Reflexi_n_
+    100030: TooBig0
+    100032: TooBig1
+    100034: TooBig2
+    100036: TooBig3
+    100038: TooBig4
+    100040: TooBig5
+    100042: TooBig6
+    100044: TooBig7
+    100046: TooBig8
+    100048: TooBig9
+    400000: Cabello
+    400002: Cabello_Bl
+    400004: Cabello_Ca
+    400006: Cuerp
+    400008: Cuerpo
+    400010: Dientes_Ab
+    400012: Dientes_Ar
+    400014: //RootNode
+    400016: Lengua
+    400018: Ojo_Derech
+    400020: Ojo_Izquie
+    400022: Pantalon
+    400024: Playera
+    400026: Refle
+    400028: Reflexi_n_
+    400030: TooBig0
+    400032: TooBig1
+    400034: TooBig2
+    400036: TooBig3
+    400038: TooBig4
+    400040: TooBig5
+    400042: TooBig6
+    400044: TooBig7
+    400046: TooBig8
+    400048: TooBig9
+    2100000: Cabello.Blanco
+    2100002: Cabello.Casta_o
+    2100004: Pantalon
+    2100006: Playera
+    2100008: Reflexi_n de oj
+    2100010: Cuerpo
+    2100012: Ojos
+    2300000: Cabello
+    2300002: Cabello_Bl
+    2300004: Cabello_Ca
+    2300006: Cuerp
+    2300008: Cuerpo
+    2300010: Dientes_Ab
+    2300012: Dientes_Ar
+    2300014: //RootNode
+    2300016: Lengua
+    2300018: Ojo_Derech
+    2300020: Ojo_Izquie
+    2300022: Pantalon
+    2300024: Playera
+    2300026: Refle
+    2300028: Reflexi_n_
+    2300030: TooBig0
+    2300032: TooBig1
+    2300034: TooBig2
+    2300036: TooBig3
+    2300038: TooBig4
+    2300040: TooBig5
+    2300042: TooBig6
+    2300044: TooBig7
+    2300046: TooBig8
+    2300048: TooBig9
+    3300000: Cabello
+    3300002: Cabello_Bl
+    3300004: Cabello_Ca
+    3300006: Cuerp
+    3300008: Cuerpo
+    3300010: Dientes_Ab
+    3300012: Dientes_Ar
+    3300014: //RootNode
+    3300016: Lengua
+    3300018: Ojo_Derech
+    3300020: Ojo_Izquie
+    3300022: Pantalon
+    3300024: Playera
+    3300026: Refle
+    3300028: Reflexi_n_
+    3300030: TooBig0
+    3300032: TooBig1
+    3300034: TooBig2
+    3300036: TooBig3
+    3300038: TooBig4
+    3300040: TooBig5
+    3300042: TooBig6
+    3300044: TooBig7
+    3300046: TooBig8
+    3300048: TooBig9
+    4300000: Hombre
+    4300002: Cuerpo
+    4300004: Cuerp
+    4300006: Reflexi_n_
+    4300008: Refle
+    4300010: Ojo_Derech
+    4300012: Ojo_Izquie
+    4300014: Dientes_Ar
+    4300016: Dientes_Ab
+    4300018: Lengua
+    4300020: Cabello
+    4300022: Cabello_Ca
+    4300024: TooBig0
+    4300026: TooBig1
+    4300028: TooBig2
+    4300030: TooBig3
+    4300032: TooBig4
+    4300034: TooBig5
+    4300036: TooBig6
+    4300038: TooBig7
+    4300040: TooBig8
+    4300042: TooBig9
+    4300044: Cabello_Bl
+    4300046: Playera
+    4300048: Pantalon
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
